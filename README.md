@@ -4,4 +4,4 @@ Text analysis of the item: [Making a start in Canada: letters from two young emi
 
 Follow the instructions at https://github.com/carolamigo/text_analysis/tree/master/.ipynb_checkpoints
 
-![sentiment_plot](https://github.com/carolamigo/text_analysis/sentiment_plot.png)
+![sentiment_plot.png](https://github.com/carolamigo/text_analysis/blob/master/sentiment_plot.png)
