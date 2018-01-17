@@ -6,5 +6,5 @@ Follow the instructions at https://github.com/carolamigo/text_analysis/tree/mast
 
 ![sentiment_plot.png](https://github.com/carolamigo/text_analysis/blob/master/sentiment_plot.png)
 
-Interactive chart available at: https://plot.ly/~carolamigo/5/
+Interactive dashboard available at: https://plot.ly/~carolamigo/8/dashboard/
 
